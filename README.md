@@ -27,11 +27,11 @@ After scaling customer profiles across 1-5 grading ranks via `NTILE(5)`, the mat
 
 | Customer Segment | Total Customers | Avg Recency (Days) | Avg Order Count | Avg Spend Amt ($) |
 | :--- | :---: | :---: | :---: | :---: |
-| **Regular Customers** | 1,032 | 100.6 | 2.5 | $819.92 |
-| **Champions (VIPs)** | 904 | 11.7 | 11.5 | $6,266.15 |
-| **Lost / Hibernating** | 868 | 267.8 | 1.5 | $643.83 |
-| **Loyal Customers** | 762 | 34.4 | 4.2 | $1,952.14 |
-| **Promising / Active** | 537 | 40.9 | 1.5 | $517.19 |
+| **Regular Customers** | 1,147 | 93.1 | 2.4 | $766.89 |
+| **Champions (VIPs)** | 999 | 12.3 | 10.7 | $5,851.56 |
+| **Lost / Hibernating** | 868 | 267.8 | 1.5 | $645.30 |
+| **Loyal Customers** | 796 | 35.5 | 4.0 | $1,797.98 |
+| **Promising / Active** | 528 | 37.1 | 1.0 | $368.88 |
 | **New Customers** | 235 | 18.4 | 1.0 | $325.72 |
 
 ---
